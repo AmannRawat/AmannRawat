@@ -42,8 +42,8 @@ AI-powered Interview Coach — your all-in-one prep companion.
 
 - 🧩 200+ DSA problems solved
 - 🛠️ 3 major projects built from scratch
--⚡ Currently learning backend testing & CI/CD
--💬 Ask me about: React, Node, MongoDB, APIs & project architecture
+- ⚡ Currently learning backend testing & CI/CD
+- 💬 Ask me about: React, Node, MongoDB, APIs & project architecture
 
 ---
 
@@ -51,5 +51,3 @@ AI-powered Interview Coach — your all-in-one prep companion.
 - 📧 Email: amanrawat1509@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/amanrwtt/
 - 🐦 Twitter/X: https://x.com/AmannRawatt
-
----
