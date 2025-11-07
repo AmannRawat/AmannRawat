@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1200&pause=500&color=00F5D4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+%2B+Web+Integration;DSA+%7C+C%2B%2B+Problem+Solver;Open+to+SDE1+%2F+Internship+Roles" alt="Typing SVG" />
 </p>
 
-**🎓 MCA | Full-Stack Developer (MERN) | DSA Enthusiast | Dehradun, India**
+**🎓 MCA | Full-Stack Developer (MERN) | DSA Enthusiast**
 
 Building **PrepAI**, an AI-powered interview coach for CS students.  
 Focused on writing clean, tested, and production-ready code.  
@@ -47,7 +47,7 @@ Currently open for **SDE1 / Internship / Remote** roles.
 ## 🌟 Currently Building  
 
 ### 🔹 [PrepAI](https://github.com/AmannRawat/PrepAI)  
-AI-powered Interview Coach — your all-in-one prep companion.  
+AI-powered Interview Coach your all-in-one prep companion.  
 
 **Features:**  
 - DSA arena with code editor + AI feedback  
