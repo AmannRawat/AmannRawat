@@ -12,11 +12,6 @@
   Building practical AI applications that combine LLMs, retrieval, workflow orchestration, and backend engineering.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/amanrwtt/">LinkedIn</a> •
-  <a href="https://x.com/AmannRawatt">X</a>
-</p>
-
 ---
 
 ## 🚀 About Me
